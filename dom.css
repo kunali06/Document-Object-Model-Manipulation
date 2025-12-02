@@ -1,0 +1,22 @@
+body{
+    background-color: palevioletred;
+}
+h1{
+    background-color:yellow;
+    color: blue;
+}
+h4{
+    color: red;
+    background-color: aqua;
+}
+p{
+    background-color: aquamarine;
+    color: rgb(117, 94, 59);
+}
+button{
+    background-color: teal;
+    color: white;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+}
